@@ -68,7 +68,7 @@ retail-store-sales-analysis/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/[your-username]/retail-store-sales-analysis.git
+   git clone https://github.com/neupanesamundra/retail-store-sales-analysis.git
    cd retail-store-sales-analysis
    ```
 2. Install the dependencies:
@@ -77,7 +77,7 @@ retail-store-sales-analysis/
    ```
 3. Open the notebook:
    ```
-   jupyter notebook [your_notebook_name].ipynb
+   jupyter notebook sales.ipynb
    ```
 
 ## Author
