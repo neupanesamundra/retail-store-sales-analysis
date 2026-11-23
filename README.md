@@ -59,7 +59,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn
 ```
 retail-store-sales-analysis/
 ├── retail_store_sales.csv
-├── [your_notebook_name].ipynb
+├── sales.ipynb
 ├── requirements.txt
 └── README.md
 ```
