@@ -82,4 +82,4 @@ retail-store-sales-analysis/
 
 ## Author
 
-[Your Name] - [LinkedIn or email]
+[Samundra Prasad Neupane] - [https://www.linkedin.com/in/samundra-neupane-51b7592a6/]
